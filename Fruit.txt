@@ -4,5 +4,7 @@ Apple
 Orange
 Banana
 
+Pineapple
+Grapes
 
 Thanks :)
